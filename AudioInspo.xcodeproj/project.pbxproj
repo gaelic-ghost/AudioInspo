@@ -8,11 +8,13 @@
 
 /* Begin PBXBuildFile section */
 		49F039A53054866400EE3913 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 49F039A43054866400EE3913 /* README.md */; };
+		49F039A730548AE900EE3913 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 49F039A630548AE900EE3913 /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		000000000000000000000120 /* AudioInspo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AudioInspo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		49F039A43054866400EE3913 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		49F039A630548AE900EE3913 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -35,6 +37,7 @@
 		000000000000000000000001 = {
 			isa = PBXGroup;
 			children = (
+				49F039A630548AE900EE3913 /* .gitignore */,
 				49F039A43054866400EE3913 /* README.md */,
 				000000000000000000000010 /* AudioInspo */,
 				000000000000000000000020 /* Products */,
@@ -108,6 +111,7 @@
 		000000000000000140000000 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			files = (
+				49F039A730548AE900EE3913 /* .gitignore in Resources */,
 				49F039A53054866400EE3913 /* README.md in Resources */,
 			);
 		};

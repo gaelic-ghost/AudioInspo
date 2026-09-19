@@ -1,6 +1,6 @@
 import SwiftUI
 
-@main struct MyApp: App {
+@main struct GAIApp: App {
     var body: some Scene {
 
 		// Menu bar item scene for macOS only
